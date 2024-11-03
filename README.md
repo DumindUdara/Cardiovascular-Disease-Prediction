@@ -9,7 +9,7 @@ This project focuses on analyzing cardiovascular health data using machine learn
 3. **Ensemble Modeling**: An ensemble approach using Voting Classifier combines multiple models to improve prediction accuracy.
 4. **Evaluation**: Model performance is evaluated using accuracy, precision, recall, and other metrics to assess predictive capability.
 
-This project uses machine learning to predict the likelihood of cardiovascular disease in patients based on health indicators. It leverages libraries such as **scikit-learn** for data preprocessing, feature engineering, and model building.
+This project uses machine learning to predict the likelihood of cardiovascular disease in patients based on health indicators. It leverages libraries such as **scikit-learn** for data preprocessing, feature engineering, and model building..
 
 <br>
 
